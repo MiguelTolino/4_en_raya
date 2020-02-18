@@ -1,6 +1,6 @@
 NAME=	4_en_raya	
 
-SRCS=	4_en_raya.c
+SRCS=	*.c
 
 CC          = gcc
 #CFLAGS      = -Wall -Wextra -Werror
